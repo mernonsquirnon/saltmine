@@ -159,6 +159,8 @@ rooms[""] = {
 
 /* undealtwith scribblings:
 
+bit where a character asks you for your name you type something and then the character is like I can't pronounce that and never refers to you by it again
+
 [Well fuck
 I NEED A HOT TOWEL GODDAMMIT
 /WHERE'S THE HOT TOWEL GUY/]
