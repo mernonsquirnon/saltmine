@@ -17,7 +17,7 @@ rooms["<p style=\"font-size: 100px;\">Salt Mine Adventures, or, Shun The Dead Go
 };
 
 rooms["The First Dream"] = {
-  description: "",
+  description: "I fell from somewhere—I don't remember where—",
   doors: [["",""]],
   nooks: [["",""]],
   slots: [["","",""]],
@@ -33,7 +33,7 @@ rooms["Day Two"] = {
   commentary: "I imagine the 'Day' rooms are just to let you get your bearings (and for the game to set variables) as the day begins, and you can't do anything in them."
 };
 rooms["The Second Dream"] = {
-  description: "",
+  description: "blind guy?",
   doors: [["",""]],
   nooks: [["",""]],
   slots: [["","",""]],
@@ -49,7 +49,7 @@ rooms["Day Three"] = {
   commentary: ""
 };
 rooms["The Third Dream"] = {
-  description: "",
+  description: "dream sequence where you wake up outside in a snowy forest, but it's in fact the same place as you're in currently and you sneak back into the prison and look at yourself?",
   doors: [["",""]],
   nooks: [["",""]],
   slots: [["","",""]],
@@ -62,7 +62,10 @@ rooms["Day Four"] = {
   nooks: [["",""]],
   slots: [["","",""]],
   items: [""],
-  commentary: ""
+  commentary: "`<i>I was old when the first Pharaohs mounted
+the jewel decked throne by the nile
+I was old in those epochs uncounted
+When I and I only was vile</i>`"
 };
 
 rooms["Miner Bill"] = {
@@ -166,8 +169,6 @@ bit where a character asks you for your name you type something and then the cha
 [Well fuck
 I NEED A HOT TOWEL GODDAMMIT
 /WHERE'S THE HOT TOWEL GUY/]
-
-PUT the dream sequence where you wake up outside in the same place in Dead God?
 
 A uniform is a kind of thing. A gun is a kind of thing.
 The guard wears a uniform and carries a gun. The guard is scenery. The guard is in the Mouth. [The guard is outside the bars to the north of the Mouth] Another guard wears a uniform. Another guard carries a gun. Another guard is scenery. The bars are in the Mouth. "Vertical iron bars, designed to keep prisoners in and-- actually, that's about it. Who would want to sneak in? <i>Salt thieves</i>?" The bars are not portable. The bars are scenery.
